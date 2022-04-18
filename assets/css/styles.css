@@ -97,3 +97,60 @@ footer a:hover {
     height: 10px;
     background: #FFD655;
 }
+
+
+@media (max-width: 1700px) {
+    .flexdiv {
+        width: 60%;
+    }
+
+    div img {
+        width: 150px;
+    }
+
+    .container p {
+        font-size: 3em;
+    }
+}
+
+@media (max-width: 1200px) {
+    .flexdiv {
+        width: 60%;
+    }
+
+    div img {
+        width: 100px;
+    }
+
+    .container p {
+        font-size: 2em;
+    }
+
+    h1 {
+        font-size: 6em;
+    }
+}
+
+@media (max-width: 950px) {
+.flexdiv {
+        width: 80%;
+    }
+
+    h1 {
+        font-size: 4em;
+        text-align: center;
+    }
+    .display {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 650px) {
+    div img {
+        width: 60px;
+    }
+
+    h1 {
+        font-size: 3em;
+    }
+}
