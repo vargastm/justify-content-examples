@@ -16,7 +16,7 @@ Check the preview on any of the links above.
 **justify-content-examples** is a **website** for you to **learn** and see how **CSS** justify-content works
 
 ### :memo: License
-**Be The Hero** is released under the [MIT License](./LICENSE.md). 
+**justify-content-examples** is released under the [MIT License]. 
 
 ### :computer: Development
 Developed by **Tiago Martins Vargas**
